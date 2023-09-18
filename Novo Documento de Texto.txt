@@ -1,1 +1,5 @@
 INICIANDO GIT TURMA DA MANHÃ.
+
+Nome: Bruno
+Idade: 19
+Estado Civil: Solteiro
